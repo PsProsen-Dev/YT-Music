@@ -67,7 +67,7 @@ cat > "$APP/Info.plist" <<'PLIST'
     <key>CFBundleExecutable</key><string>PlayerLab</string>
     <key>CFBundleIdentifier</key><string>com.ymusic.iosplayerlab</string>
     <key>CFBundleName</key><string>PlayerLab</string>
-    <key>CFBundleDisplayName</key><string>YMusic iOS Lab</string>
+    <key>CFBundleDisplayName</key><string>YT Music iOS Lab</string>
     <key>CFBundlePackageType</key><string>APPL</string>
     <key>CFBundleShortVersionString</key><string>1.0</string>
     <key>CFBundleVersion</key><string>1</string>

@@ -228,7 +228,7 @@
     <string name="overlay_fps">%1$d fps</string>
     <string name="settings_licenses">オープンソースライセンス</string>
     <string name="settings_terms">利用規約とプライバシー</string>
-    <string name="settings_licenses_intro">YMusic は GNU GPL v3.0 のもとで公開されているオープンソースです。以下のコンポーネントを含みます：</string>
+    <string name="settings_licenses_intro">YT Music は GNU GPL v3.0 のもとで公開されているオープンソースです。以下のコンポーネントを含みます：</string>
 
     <!-- Feedback -->
     <string name="feedback_intro">不具合やご要望を GitHub またはメールでお知らせください。ログを確認して返信できるよう、下の匿名情報を添えてください。</string>
@@ -244,10 +244,10 @@
     <string name="feedback_github_hint">公開。バグやアイデアに最適 — 他のユーザーもフォローや追記ができます。</string>
     <string name="feedback_email_title">%1$s にメール</string>
     <string name="feedback_email_hint">非公開。アカウントや個人的なご質問に最適です。</string>
-    <string name="feedback_email_subject">YMusic へのフィードバック</string>
+    <string name="feedback_email_subject">YT Music へのフィードバック</string>
     <string name="feedback_prefilled_note">どちらも情報が入力済みの状態で開きます。入っていない場合は貼り付けてください — この情報がないとサポートできません。</string>
     <string name="feedback_reports_off_title">匿名レポートがオフです</string>
-    <string name="feedback_reports_off_message">問題を調べるには、このアプリのログが必要です。「続行」をタップすると、YMusic が匿名レポートを再びオンにしてログを送信します。</string>
+    <string name="feedback_reports_off_message">問題を調べるには、このアプリのログが必要です。「続行」をタップすると、YT Music が匿名レポートを再びオンにしてログを送信します。</string>
     <string name="feedback_reports_off_note">名前・メールアドレス・アカウントは送信されません。レポートは設定からいつでも再びオフにできます。</string>
     <string name="feedback_continue">続行</string>
     <string name="feedback_sentry_link">または Sentry で送信</string>
@@ -297,7 +297,7 @@
 
     <!-- YouTube sign-in -->
     <string name="signin_preface_title">YouTube でサインイン</string>
-    <string name="signin_preface_subtitle">YMusic で YouTube のすべての機能を利用できます</string>
+    <string name="signin_preface_subtitle">YT Music で YouTube のすべての機能を利用できます</string>
     <string name="signin_enables">サインインすると次のことが可能になります：</string>
     <string name="signin_feature_home">あなたに合わせた YouTube ホームフィード</string>
     <string name="signin_feature_subscriptions">登録チャンネルのフィード</string>
@@ -310,8 +310,8 @@
     <string name="signin_screen_title">サインイン</string>
     <string name="signin_loading">サインインを読み込み中…</string>
     <string name="signin_unavailable">このデバイスではまだサインインできません</string>
-    <string name="signin_qr_title">YMusic アプリでスキャン</string>
-    <string name="signin_qr_hint">スマートフォンで YMusic → 設定 → デバイスをリンク → カメラを起動 を開き、このコードをスキャンしてください。</string>
+    <string name="signin_qr_title">YT Music アプリでスキャン</string>
+    <string name="signin_qr_hint">スマートフォンで YT Music → 設定 → デバイスをリンク → カメラを起動 を開き、このコードをスキャンしてください。</string>
     <string name="signin_qr_waiting">スマートフォンを待っています…</string>
     <string name="signin_qr_sas_hint">スマートフォンにも同じコードが表示されます。一致する場合のみ送信してください。</string>
     <string name="signin_or_paste">またはブラウザから Cookie を貼り付け</string>
@@ -337,11 +337,11 @@
     <string name="signin_paste_no_cookie_title">このリクエストには Cookie がありません</string>
     <string name="signin_paste_no_cookie_body">別のリクエスト（できれば Fetch/XHR）から Copy as cURL でコピーしてください。例：\nwww.youtube.com/generate_204\nwww.youtube.com/getDatasyncIdsEndpoint</string>
     <string name="signin_paste_no_cookie_ok">OK</string>
-    <string name="cd_device_link_qr">YMusic アプリでスキャンする QR コード</string>
+    <string name="cd_device_link_qr">YT Music アプリでスキャンする QR コード</string>
     <string name="settings_link_devices">デバイスをリンク</string>
     <string name="settings_link_devices_hint">パソコンの QR コードをスキャンしてサインイン</string>
     <string name="device_link_title">デバイスをリンク</string>
-    <string name="device_link_intro">パソコンの YMusic に表示された QR コードをスキャンしてください。このスマートフォンはサインイン済みである必要があります。</string>
+    <string name="device_link_intro">パソコンの YT Music に表示された QR コードをスキャンしてください。このスマートフォンはサインイン済みである必要があります。</string>
     <string name="device_link_open_camera">カメラを起動</string>
     <string name="device_link_scan_hint">パソコンの QR コードにカメラを向けてください</string>
     <string name="device_link_sas_hint">このコードがパソコンの表示と一致する必要があります。一致しない場合は「キャンセル」をタップしてください。</string>
@@ -557,7 +557,7 @@
     <string name="cd_move_to_top">一番上へ移動</string>
     <string name="dialog_undo">元に戻す</string>
     <string name="dialog_save">保存</string>
-    <string name="upgraded_message">YMusic を %1$s にアップデートしました</string>
+    <string name="upgraded_message">YT Music を %1$s にアップデートしました</string>
     <string name="upgraded_view_changelog">変更履歴を見る</string>
     <string name="menu_go_to_artist">アーティストへ移動</string>
     <string name="menu_go_to_album">アルバムへ移動</string>

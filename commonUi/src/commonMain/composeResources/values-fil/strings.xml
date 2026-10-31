@@ -229,7 +229,7 @@
     <string name="overlay_fps">%1$d fps</string>
     <string name="settings_licenses">Mga open source na lisensya</string>
     <string name="settings_terms">Mga tuntunin at privacy</string>
-    <string name="settings_licenses_intro">Open source ang YMusic sa ilalim ng GNU GPL v3.0. Kasama rito ang mga component na ito:</string>
+    <string name="settings_licenses_intro">Open source ang YT Music sa ilalim ng GNU GPL v3.0. Kasama rito ang mga component na ito:</string>
 
     <!-- Feedback -->
     <string name="feedback_intro">Sabihin sa amin kung ano ang nagkaproblema o kung ano ang gusto mong makita, sa GitHub o sa email. Isama ang iyong anonymous na impormasyon sa ibaba para mahanap namin ang iyong mga log at makasagot kami.</string>
@@ -245,10 +245,10 @@
     <string name="feedback_github_hint">Pampubliko. Pinakamainam para sa mga bug at ideya — puwedeng sumubaybay at magdagdag ang iba.</string>
     <string name="feedback_email_title">Mag-email sa %1$s</string>
     <string name="feedback_email_hint">Pribado. Pinakamainam para sa mga tanong tungkol sa account o personal.</string>
-    <string name="feedback_email_subject">Feedback sa YMusic</string>
+    <string name="feedback_email_subject">Feedback sa YT Music</string>
     <string name="feedback_prefilled_note">Pareho silang nagbubukas nang may nakalagay nang impormasyon. Kung wala ito, i-paste ito — hindi kami makakatulong kung wala ito.</string>
     <string name="feedback_reports_off_title">Naka-off ang mga anonymous na report</string>
-    <string name="feedback_reports_off_message">Para masuri ang problema mo, kailangan namin ang mga log ng app na ito. I-tap ang Magpatuloy at ibabalik ng YMusic ang mga anonymous na report at ipapadala ang mga log.</string>
+    <string name="feedback_reports_off_message">Para masuri ang problema mo, kailangan namin ang mga log ng app na ito. I-tap ang Magpatuloy at ibabalik ng YT Music ang mga anonymous na report at ipapadala ang mga log.</string>
     <string name="feedback_reports_off_note">Walang ipinapadalang pangalan, email o account. Puwede mong i-off ulit ang mga report sa Mga setting.</string>
     <string name="feedback_continue">Magpatuloy</string>
     <string name="feedback_sentry_link">o sa pamamagitan ng Sentry</string>
@@ -298,7 +298,7 @@
 
     <!-- YouTube sign-in -->
     <string name="signin_preface_title">Mag-sign in gamit ang YouTube</string>
-    <string name="signin_preface_subtitle">at makuha ang lahat ng feature ng YouTube sa YMusic</string>
+    <string name="signin_preface_subtitle">at makuha ang lahat ng feature ng YouTube sa YT Music</string>
     <string name="signin_enables">Kapag nag-sign in, magagamit mo ang:</string>
     <string name="signin_feature_home">Personalized na YouTube home feed</string>
     <string name="signin_feature_subscriptions">Feed ng mga subscription</string>
@@ -311,8 +311,8 @@
     <string name="signin_screen_title">Mag-sign in</string>
     <string name="signin_loading">Nilo-load ang pag-sign in…</string>
     <string name="signin_unavailable">Hindi pa available ang pag-sign in sa device na ito</string>
-    <string name="signin_qr_title">I-scan gamit ang YMusic app</string>
-    <string name="signin_qr_hint">Sa iyong phone, buksan ang YMusic → Mga setting → I-link ang mga device → Buksan ang camera, pagkatapos ay i-scan ang code na ito.</string>
+    <string name="signin_qr_title">I-scan gamit ang YT Music app</string>
+    <string name="signin_qr_hint">Sa iyong phone, buksan ang YT Music → Mga setting → I-link ang mga device → Buksan ang camera, pagkatapos ay i-scan ang code na ito.</string>
     <string name="signin_qr_waiting">Hinihintay ang phone…</string>
     <string name="signin_qr_sas_hint">Ipapakita ng iyong phone ang parehong code. Ipadala lang kung magkatugma ang mga ito.</string>
     <string name="signin_or_paste">O i-paste ang cookies mula sa browser</string>
@@ -338,11 +338,11 @@
     <string name="signin_paste_no_cookie_title">Walang cookies ang request na iyon</string>
     <string name="signin_paste_no_cookie_body">Gamitin ang Copy as cURL sa ibang request, mas mainam kung Fetch/XHR, halimbawa:\nwww.youtube.com/generate_204\nwww.youtube.com/getDatasyncIdsEndpoint</string>
     <string name="signin_paste_no_cookie_ok">Sige</string>
-    <string name="cd_device_link_qr">QR code na ii-scan gamit ang YMusic app</string>
+    <string name="cd_device_link_qr">QR code na ii-scan gamit ang YT Music app</string>
     <string name="settings_link_devices">I-link ang mga device</string>
     <string name="settings_link_devices_hint">Mag-sign in sa isang computer sa pamamagitan ng pag-scan sa QR code nito</string>
     <string name="device_link_title">I-link ang mga device</string>
-    <string name="device_link_intro">I-scan ang QR code na ipinapakita ng YMusic sa iyong computer. Dapat ay naka-sign in na ang phone na ito.</string>
+    <string name="device_link_intro">I-scan ang QR code na ipinapakita ng YT Music sa iyong computer. Dapat ay naka-sign in na ang phone na ito.</string>
     <string name="device_link_open_camera">Buksan ang camera</string>
     <string name="device_link_scan_hint">Itutok ang camera sa QR code ng computer</string>
     <string name="device_link_sas_hint">Dapat tumugma ang code na ito sa computer. Kung hindi, i-tap ang Kanselahin.</string>
@@ -562,7 +562,7 @@
     <string name="cd_move_to_top">Ilipat sa itaas</string>
     <string name="dialog_undo">I-undo</string>
     <string name="dialog_save">I-save</string>
-    <string name="upgraded_message">Na-update ang YMusic sa %1$s</string>
+    <string name="upgraded_message">Na-update ang YT Music sa %1$s</string>
     <string name="upgraded_view_changelog">Tingnan ang changelog</string>
     <string name="menu_go_to_artist">Pumunta sa artist</string>
     <string name="menu_go_to_album">Pumunta sa album</string>

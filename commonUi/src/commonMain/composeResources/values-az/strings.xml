@@ -229,7 +229,7 @@
     <string name="overlay_fps">%1$d fps</string>
     <string name="settings_licenses">Açıq mənbə lisenziyaları</string>
     <string name="settings_terms">Şərtlər və məxfilik</string>
-    <string name="settings_licenses_intro">YMusic GNU GPL v3.0 lisenziyası ilə açıq mənbəlidir. Aşağıdakı komponentləri ehtiva edir:</string>
+    <string name="settings_licenses_intro">YT Music GNU GPL v3.0 lisenziyası ilə açıq mənbəlidir. Aşağıdakı komponentləri ehtiva edir:</string>
 
     <!-- Feedback -->
     <string name="feedback_intro">Nəyin səhv getdiyini və ya nə görmək istədiyinizi GitHub-da və ya e-poçtla bizə bildirin. Jurnallarınızı tapıb cavab verə bilməyimiz üçün aşağıdakı anonim məlumatınızı əlavə edin.</string>
@@ -245,10 +245,10 @@
     <string name="feedback_github_hint">İctimai. Xətalar və ideyalar üçün ən yaxşısı — başqaları izləyə və əlavə edə bilər.</string>
     <string name="feedback_email_title">%1$s ünvanına yazın</string>
     <string name="feedback_email_hint">Şəxsi. Hesab və ya şəxsi suallar üçün ən yaxşısı.</string>
-    <string name="feedback_email_subject">YMusic rəyi</string>
+    <string name="feedback_email_subject">YT Music rəyi</string>
     <string name="feedback_prefilled_note">Hər ikisi məlumat artıq doldurulmuş halda açılır. Əgər yoxdursa, onu yapışdırın — onsuz kömək edə bilmərik.</string>
     <string name="feedback_reports_off_title">Anonim hesabatlar söndürülüb</string>
-    <string name="feedback_reports_off_message">Probleminizi araşdırmaq üçün bu tətbiqin loglarına ehtiyacımız var. Davam et düyməsinə toxunun, YMusic anonim hesabatları yenidən aktivləşdirib logları göndərəcək.</string>
+    <string name="feedback_reports_off_message">Probleminizi araşdırmaq üçün bu tətbiqin loglarına ehtiyacımız var. Davam et düyməsinə toxunun, YT Music anonim hesabatları yenidən aktivləşdirib logları göndərəcək.</string>
     <string name="feedback_reports_off_note">Ad, e-poçt və ya hesab göndərilmir. Hesabatları Tənzimləmələrdə yenidən söndürə bilərsiniz.</string>
     <string name="feedback_continue">Davam et</string>
     <string name="feedback_sentry_link">və ya Sentry ilə</string>
@@ -298,7 +298,7 @@
 
     <!-- YouTube sign-in -->
     <string name="signin_preface_title">YouTube ilə daxil olun</string>
-    <string name="signin_preface_subtitle">və YMusic daxilində bütün YouTube funksiyalarını əldə edin</string>
+    <string name="signin_preface_subtitle">və YT Music daxilində bütün YouTube funksiyalarını əldə edin</string>
     <string name="signin_enables">Giriş ilə aktivləşəcək:</string>
     <string name="signin_feature_home">Fərdiləşdirilmiş YouTube ana səhifə lenti</string>
     <string name="signin_feature_subscriptions">Abunəliklər lenti</string>
@@ -311,8 +311,8 @@
     <string name="signin_screen_title">Daxil ol</string>
     <string name="signin_loading">Giriş yüklənir…</string>
     <string name="signin_unavailable">Bu cihazda giriş hələ mövcud deyil</string>
-    <string name="signin_qr_title">YMusic tətbiqi ilə skan edin</string>
-    <string name="signin_qr_hint">Telefonunuzda YMusic → Tənzimləmələr → Cihazları əlaqələndir → Kameranı aç bölməsini açın, sonra bu kodu skan edin.</string>
+    <string name="signin_qr_title">YT Music tətbiqi ilə skan edin</string>
+    <string name="signin_qr_hint">Telefonunuzda YT Music → Tənzimləmələr → Cihazları əlaqələndir → Kameranı aç bölməsini açın, sonra bu kodu skan edin.</string>
     <string name="signin_qr_waiting">Telefon gözlənilir…</string>
     <string name="signin_qr_sas_hint">Telefonunuz eyni kodu göstərəcək. Yalnız uyğun gələrsə göndərin.</string>
     <string name="signin_or_paste">Və ya brauzerdən kukiləri yapışdırın</string>
@@ -338,11 +338,11 @@
     <string name="signin_paste_no_cookie_title">Bu sorğuda kuki yoxdur</string>
     <string name="signin_paste_no_cookie_body">Başqa sorğudan, üstünlüklə Fetch/XHR, Copy as cURL ilə kopyalayın, məsələn:\nwww.youtube.com/generate_204\nwww.youtube.com/getDatasyncIdsEndpoint</string>
     <string name="signin_paste_no_cookie_ok">Aydındır</string>
-    <string name="cd_device_link_qr">YMusic tətbiqi ilə skan ediləcək QR kod</string>
+    <string name="cd_device_link_qr">YT Music tətbiqi ilə skan ediləcək QR kod</string>
     <string name="settings_link_devices">Cihazları əlaqələndir</string>
     <string name="settings_link_devices_hint">Kompüterin QR kodunu skan edərək orada daxil olun</string>
     <string name="device_link_title">Cihazları əlaqələndir</string>
-    <string name="device_link_intro">Kompüterinizdəki YMusic-də göstərilən QR kodu skan edin. Bu telefonda artıq daxil olunmuş olmalıdır.</string>
+    <string name="device_link_intro">Kompüterinizdəki YT Music-də göstərilən QR kodu skan edin. Bu telefonda artıq daxil olunmuş olmalıdır.</string>
     <string name="device_link_open_camera">Kameranı aç</string>
     <string name="device_link_scan_hint">Kameranı kompüterin QR koduna tutun</string>
     <string name="device_link_sas_hint">Bu kod kompüterdəki ilə eyni olmalıdır. Əks halda Ləğv et düyməsinə toxunun.</string>
@@ -562,7 +562,7 @@
     <string name="cd_move_to_top">Yuxarı köçür</string>
     <string name="dialog_undo">Geri al</string>
     <string name="dialog_save">Saxla</string>
-    <string name="upgraded_message">YMusic %1$s versiyasına yeniləndi</string>
+    <string name="upgraded_message">YT Music %1$s versiyasına yeniləndi</string>
     <string name="upgraded_view_changelog">Dəyişikliklərə bax</string>
     <string name="menu_go_to_artist">İfaçıya keç</string>
     <string name="menu_go_to_album">Albuma keç</string>

@@ -229,7 +229,7 @@
     <string name="overlay_fps">%1$d fps</string>
     <string name="settings_licenses">ওপেন সোর্স লাইসেন্স</string>
     <string name="settings_terms">শর্তাবলী ও গোপনীয়তা</string>
-    <string name="settings_licenses_intro">YMusic GNU GPL v3.0-এর অধীনে ওপেন সোর্স। এতে এই উপাদানগুলো রয়েছে:</string>
+    <string name="settings_licenses_intro">YT Music GNU GPL v3.0-এর অধীনে ওপেন সোর্স। এতে এই উপাদানগুলো রয়েছে:</string>
 
     <!-- Feedback -->
     <string name="feedback_intro">কী সমস্যা হয়েছে বা আপনি কী দেখতে চান, তা GitHub-এ বা ইমেলে আমাদের জানান। নিচের বেনামী তথ্য যোগ করুন, যাতে আমরা আপনার লগ খুঁজে উত্তর দিতে পারি।</string>
@@ -245,10 +245,10 @@
     <string name="feedback_github_hint">সর্বজনীন। বাগ ও আইডিয়ার জন্য সেরা — অন্যরা অনুসরণ করতে ও যোগ করতে পারেন।</string>
     <string name="feedback_email_title">%1$s-এ ইমেল করুন</string>
     <string name="feedback_email_hint">ব্যক্তিগত। অ্যাকাউন্ট বা ব্যক্তিগত প্রশ্নের জন্য সেরা।</string>
-    <string name="feedback_email_subject">YMusic মতামত</string>
+    <string name="feedback_email_subject">YT Music মতামত</string>
     <string name="feedback_prefilled_note">দুটোই তথ্য আগে থেকে পূরণ করা অবস্থায় খোলে। না থাকলে পেস্ট করুন — এটি ছাড়া আমরা সাহায্য করতে পারি না।</string>
     <string name="feedback_reports_off_title">বেনামী রিপোর্ট বন্ধ আছে</string>
-    <string name="feedback_reports_off_message">আপনার সমস্যা দেখতে আমাদের এই অ্যাপের লগ দরকার। চালিয়ে যান-এ ট্যাপ করুন, YMusic বেনামী রিপোর্ট আবার চালু করে লগ পাঠাবে।</string>
+    <string name="feedback_reports_off_message">আপনার সমস্যা দেখতে আমাদের এই অ্যাপের লগ দরকার। চালিয়ে যান-এ ট্যাপ করুন, YT Music বেনামী রিপোর্ট আবার চালু করে লগ পাঠাবে।</string>
     <string name="feedback_reports_off_note">কোনো নাম, ইমেল বা অ্যাকাউন্ট পাঠানো হয় না। সেটিংসে আবার রিপোর্ট বন্ধ করতে পারেন।</string>
     <string name="feedback_continue">চালিয়ে যান</string>
     <string name="feedback_sentry_link">অথবা Sentry-এর মাধ্যমে</string>
@@ -298,7 +298,7 @@
 
     <!-- YouTube sign-in -->
     <string name="signin_preface_title">YouTube দিয়ে সাইন ইন করুন</string>
-    <string name="signin_preface_subtitle">এবং YMusic-এর ভেতরেই YouTube-এর সব ফিচার পান</string>
+    <string name="signin_preface_subtitle">এবং YT Music-এর ভেতরেই YouTube-এর সব ফিচার পান</string>
     <string name="signin_enables">সাইন ইন করলে পাবেন:</string>
     <string name="signin_feature_home">ব্যক্তিগতকৃত YouTube হোম ফিড</string>
     <string name="signin_feature_subscriptions">সাবস্ক্রিপশন ফিড</string>
@@ -311,8 +311,8 @@
     <string name="signin_screen_title">সাইন ইন</string>
     <string name="signin_loading">সাইন ইন লোড হচ্ছে…</string>
     <string name="signin_unavailable">এই ডিভাইসে এখনও সাইন ইন উপলব্ধ নয়</string>
-    <string name="signin_qr_title">YMusic অ্যাপ দিয়ে স্ক্যান করুন</string>
-    <string name="signin_qr_hint">আপনার ফোনে YMusic খুলুন → সেটিংস → ডিভাইস লিঙ্ক করুন → ক্যামেরা খুলুন, তারপর এই কোডটি স্ক্যান করুন।</string>
+    <string name="signin_qr_title">YT Music অ্যাপ দিয়ে স্ক্যান করুন</string>
+    <string name="signin_qr_hint">আপনার ফোনে YT Music খুলুন → সেটিংস → ডিভাইস লিঙ্ক করুন → ক্যামেরা খুলুন, তারপর এই কোডটি স্ক্যান করুন।</string>
     <string name="signin_qr_waiting">ফোনের জন্য অপেক্ষা করা হচ্ছে…</string>
     <string name="signin_qr_sas_hint">আপনার ফোনে এই একই কোড দেখাবে। মিললে তবেই পাঠান।</string>
     <string name="signin_or_paste">অথবা ব্রাউজার থেকে কুকি পেস্ট করুন</string>
@@ -338,11 +338,11 @@
     <string name="signin_paste_no_cookie_title">ওই রিকোয়েস্টে কোনো কুকি নেই</string>
     <string name="signin_paste_no_cookie_body">অন্য একটি রিকোয়েস্ট থেকে Copy as cURL করুন, বিশেষত Fetch/XHR, যেমন:\nwww.youtube.com/generate_204\nwww.youtube.com/getDatasyncIdsEndpoint</string>
     <string name="signin_paste_no_cookie_ok">বুঝেছি</string>
-    <string name="cd_device_link_qr">YMusic অ্যাপ দিয়ে স্ক্যান করার QR কোড</string>
+    <string name="cd_device_link_qr">YT Music অ্যাপ দিয়ে স্ক্যান করার QR কোড</string>
     <string name="settings_link_devices">ডিভাইস লিঙ্ক করুন</string>
     <string name="settings_link_devices_hint">কম্পিউটারের QR কোড স্ক্যান করে সেখানে সাইন ইন করুন</string>
     <string name="device_link_title">ডিভাইস লিঙ্ক করুন</string>
-    <string name="device_link_intro">আপনার কম্পিউটারে YMusic-এ দেখানো QR কোডটি স্ক্যান করুন। এই ফোনে আগে থেকেই সাইন ইন থাকতে হবে।</string>
+    <string name="device_link_intro">আপনার কম্পিউটারে YT Music-এ দেখানো QR কোডটি স্ক্যান করুন। এই ফোনে আগে থেকেই সাইন ইন থাকতে হবে।</string>
     <string name="device_link_open_camera">ক্যামেরা খুলুন</string>
     <string name="device_link_scan_hint">ক্যামেরাটি কম্পিউটারের QR কোডের দিকে ধরুন</string>
     <string name="device_link_sas_hint">এই কোডটি কম্পিউটারের সাথে মিলতে হবে। না মিললে বাতিল-এ ট্যাপ করুন।</string>
@@ -562,7 +562,7 @@
     <string name="cd_move_to_top">শীর্ষে সরান</string>
     <string name="dialog_undo">পূর্বাবস্থায় ফেরান</string>
     <string name="dialog_save">সংরক্ষণ করুন</string>
-    <string name="upgraded_message">YMusic %1$s সংস্করণে আপডেট হয়েছে</string>
+    <string name="upgraded_message">YT Music %1$s সংস্করণে আপডেট হয়েছে</string>
     <string name="upgraded_view_changelog">পরিবর্তনের তালিকা দেখুন</string>
     <string name="menu_go_to_artist">শিল্পীতে যান</string>
     <string name="menu_go_to_album">অ্যালবামে যান</string>

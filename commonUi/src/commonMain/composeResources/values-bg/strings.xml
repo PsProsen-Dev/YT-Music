@@ -229,7 +229,7 @@
     <string name="overlay_fps">%1$d кадъра/с</string>
     <string name="settings_licenses">Лицензи за отворен код</string>
     <string name="settings_terms">Условия и поверителност</string>
-    <string name="settings_licenses_intro">YMusic е с отворен код под лиценз GNU GPL v3.0. Включва следните компоненти:</string>
+    <string name="settings_licenses_intro">YT Music е с отворен код под лиценз GNU GPL v3.0. Включва следните компоненти:</string>
 
     <!-- Feedback -->
     <string name="feedback_intro">Кажете ни какво се е объркало или какво бихте искали да видите – в GitHub или по имейл. Включете анонимната си информация по-долу, за да намерим логовете ви и да отговорим.</string>
@@ -245,10 +245,10 @@
     <string name="feedback_github_hint">Публично. Най-добре за грешки и идеи — други могат да следят и да добавят.</string>
     <string name="feedback_email_title">Имейл до %1$s</string>
     <string name="feedback_email_hint">Лично. Най-добре за въпроси за акаунта или лични въпроси.</string>
-    <string name="feedback_email_subject">Отзив за YMusic</string>
+    <string name="feedback_email_subject">Отзив за YT Music</string>
     <string name="feedback_prefilled_note">И двата варианта се отварят с вече попълнена информация. Ако липсва, поставете я — без нея не можем да помогнем.</string>
     <string name="feedback_reports_off_title">Анонимните отчети са изключени</string>
-    <string name="feedback_reports_off_message">За да проучим проблема ви, ни трябват логовете на това приложение. Докоснете „Продължи“ и YMusic ще включи отново анонимните отчети и ще изпрати логовете.</string>
+    <string name="feedback_reports_off_message">За да проучим проблема ви, ни трябват логовете на това приложение. Докоснете „Продължи“ и YT Music ще включи отново анонимните отчети и ще изпрати логовете.</string>
     <string name="feedback_reports_off_note">Не се изпраща име, имейл или акаунт. Можете отново да изключите отчетите в Настройки.</string>
     <string name="feedback_continue">Продължи</string>
     <string name="feedback_sentry_link">или чрез Sentry</string>
@@ -298,7 +298,7 @@
 
     <!-- YouTube sign-in -->
     <string name="signin_preface_title">Вход с YouTube</string>
-    <string name="signin_preface_subtitle">и получете всички функции на YouTube в YMusic</string>
+    <string name="signin_preface_subtitle">и получете всички функции на YouTube в YT Music</string>
     <string name="signin_enables">Входът дава достъп до:</string>
     <string name="signin_feature_home">Персонализирана начална емисия в YouTube</string>
     <string name="signin_feature_subscriptions">Емисия с абонаменти</string>
@@ -311,8 +311,8 @@
     <string name="signin_screen_title">Вход</string>
     <string name="signin_loading">Зареждане на входа…</string>
     <string name="signin_unavailable">Входът все още не е наличен на това устройство</string>
-    <string name="signin_qr_title">Сканирайте с приложението YMusic</string>
-    <string name="signin_qr_hint">На телефона си отворете YMusic → Настройки → Свързване на устройства → Отвори камерата и сканирайте този код.</string>
+    <string name="signin_qr_title">Сканирайте с приложението YT Music</string>
+    <string name="signin_qr_hint">На телефона си отворете YT Music → Настройки → Свързване на устройства → Отвори камерата и сканирайте този код.</string>
     <string name="signin_qr_waiting">Изчакване на телефона…</string>
     <string name="signin_qr_sas_hint">Телефонът ви ще покаже същия код. Изпратете само ако съвпадат.</string>
     <string name="signin_or_paste">Или поставете бисквитки от браузър</string>
@@ -338,11 +338,11 @@
     <string name="signin_paste_no_cookie_title">Тази заявка няма бисквитки</string>
     <string name="signin_paste_no_cookie_body">Копирайте като cURL друга заявка, за предпочитане Fetch/XHR, например:\nwww.youtube.com/generate_204\nwww.youtube.com/getDatasyncIdsEndpoint</string>
     <string name="signin_paste_no_cookie_ok">Разбрах</string>
-    <string name="cd_device_link_qr">QR код за сканиране с приложението YMusic</string>
+    <string name="cd_device_link_qr">QR код за сканиране с приложението YT Music</string>
     <string name="settings_link_devices">Свързване на устройства</string>
     <string name="settings_link_devices_hint">Влезте на компютър, като сканирате неговия QR код</string>
     <string name="device_link_title">Свързване на устройства</string>
-    <string name="device_link_intro">Сканирайте QR кода, показан в YMusic на компютъра ви. Този телефон трябва вече да е влязъл.</string>
+    <string name="device_link_intro">Сканирайте QR кода, показан в YT Music на компютъра ви. Този телефон трябва вече да е влязъл.</string>
     <string name="device_link_open_camera">Отвори камерата</string>
     <string name="device_link_scan_hint">Насочете камерата към QR кода на компютъра</string>
     <string name="device_link_sas_hint">Този код трябва да съвпада с този на компютъра. Ако не съвпада, докоснете „Отказ“.</string>
@@ -562,7 +562,7 @@
     <string name="cd_move_to_top">Премести най-горе</string>
     <string name="dialog_undo">Отмени</string>
     <string name="dialog_save">Запази</string>
-    <string name="upgraded_message">YMusic е обновено до %1$s</string>
+    <string name="upgraded_message">YT Music е обновено до %1$s</string>
     <string name="upgraded_view_changelog">Вижте промените</string>
     <string name="menu_go_to_artist">Към изпълнителя</string>
     <string name="menu_go_to_album">Към албума</string>

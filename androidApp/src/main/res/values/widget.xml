@@ -4,5 +4,5 @@
     <!-- Shown when there is no artwork to derive the background from (the YMusic accent). -->
     <color name="widget_fallback">#FFE8732A</color>
     <color name="widget_card_fallback">#FF5A2E2A</color>
-    <string name="widget_brand" translatable="false">YMUSIC</string>
+    <string name="widget_brand" translatable="false">YT MUSIC</string>
 </resources>

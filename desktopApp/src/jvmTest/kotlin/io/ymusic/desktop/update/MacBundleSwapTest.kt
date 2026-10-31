@@ -18,8 +18,8 @@ class MacBundleSwapTest {
     @Test
     fun two_directories_trade_places_atomically() {
         if (!MacBundleSwap.isSupported) return
-        val current = File(tmp, "YMusic.app").apply { mkdirs(); File(this, "v").writeText("old") }
-        val assembled = File(tmp, ".YMusic.new").apply { mkdirs(); File(this, "v").writeText("new") }
+        val current = File(tmp, "YT Music.app").apply { mkdirs(); File(this, "v").writeText("old") }
+        val assembled = File(tmp, ".YT Music.new").apply { mkdirs(); File(this, "v").writeText("new") }
 
         MacBundleSwap.exchange(current, assembled)
 
@@ -30,7 +30,7 @@ class MacBundleSwapTest {
     @Test
     fun exchanging_a_missing_path_is_refused_before_anything_moves() {
         if (!MacBundleSwap.isSupported) return
-        val current = File(tmp, "YMusic.app").apply { mkdirs(); File(this, "v").writeText("old") }
+        val current = File(tmp, "YT Music.app").apply { mkdirs(); File(this, "v").writeText("old") }
 
         runCatching { MacBundleSwap.exchange(current, File(tmp, "not-there")) }
 

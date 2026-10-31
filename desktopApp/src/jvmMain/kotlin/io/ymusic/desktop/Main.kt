@@ -345,7 +345,7 @@ fun main() {
                 // carries on; an empty queue → quit.
                 if (graph?.player?.queue?.value?.items?.isNotEmpty() == true) windowVisible = false else quit()
             },
-            title = "YMusic",
+            title = "YT Music",
             icon = painterResource(Res.drawable.ymusic_logo),
             state = windowState,
             undecorated = true,
@@ -417,7 +417,7 @@ fun main() {
                             )
                         }
                         Text(
-                            "YMusic",
+                            "YT Music",
                             color = if (darkBar) Color.White else palette.InkStrong,
                             fontSize = 13.sp,
                             fontWeight = FontWeight.Medium,

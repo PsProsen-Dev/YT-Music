@@ -1,9 +1,9 @@
-# YMusic
+# YT Music
 
 A Kotlin Multiplatform music player for Android, desktop (MacOs, Windows, Linux), and iOS/iPad.
 
 > [!CAUTION]
-> **Only install YMusic from trusted sources:** [ymusic.io](https://ymusic.io) or [GitHub Releases](https://github.com/ymusic-io/YMusicV4/releases). Anyone can build a modified copy — bad actors can ship a fake app that steals your Google account credentials when you sign in.
+> **Only install YT Music from trusted sources:** [ymusic.io](https://ymusic.io) or [GitHub Releases](https://github.com/ymusic-io/YMusicV4/releases). Anyone can build a modified copy — bad actors can ship a fake app that steals your Google account credentials when you sign in.
 >
 > **Misuse Disclaimer:**
 > The authors are not responsible for any misuse of the application.
@@ -35,7 +35,7 @@ The iOS app builds from `iosApp/iosApp.xcodeproj` in Xcode; its Kotlin framework
 
 ## License
 
-YMusic is open source under the [GNU General Public License v3.0](LICENSE), except the
+YT Music is open source under the [GNU General Public License v3.0](LICENSE), except the
 foundation libraries below, which are Apache-2.0 so any project can reuse them:
 
 | Directory | License |

@@ -424,8 +424,12 @@ static void mse_fs_timer_stop(void)
 
 static void mse_fs_restack(void)
 {
-    NSWindow *ui = mse_named_window(@"YMusic");
-    NSWindow *video = mse_named_window(@"YMusic video");
+    NSWindow *ui = mse_named_window(@"YT Music");
+    if (!ui)
+        ui = mse_named_window(@"YMusic");
+    NSWindow *video = mse_named_window(@"YT Music video");
+    if (!video)
+        video = mse_named_window(@"YMusic video");
     BOOL fs;
     if (!ui || !video || ui == video)
         return;
@@ -468,7 +472,9 @@ static void mse_fs_timer_start(void)
                                     usingBlock:^(NSNotification *note) {
                                         NSWindow *w = note.object;
                                         NSString *t = w.title;
-                                        if (![t isEqualToString:@"YMusic"] &&
+                                        if (![t isEqualToString:@"YT Music"] &&
+                                            ![t isEqualToString:@"YMusic"] &&
+                                            ![t isEqualToString:@"YT Music video"] &&
                                             ![t isEqualToString:@"YMusic video"])
                                             return;
                                         mse_fs_restack();
@@ -479,7 +485,9 @@ static void mse_fs_timer_start(void)
                                   usingBlock:^(NSNotification *note) {
                                       NSWindow *w = note.object;
                                       NSString *t = w.title;
-                                      if (![t isEqualToString:@"YMusic"] &&
+                                      if (![t isEqualToString:@"YT Music"] &&
+                                          ![t isEqualToString:@"YMusic"] &&
+                                          ![t isEqualToString:@"YT Music video"] &&
                                           ![t isEqualToString:@"YMusic video"])
                                           return;
                                       mse_fs_restack();
@@ -543,6 +551,8 @@ void mse_vt_prepare_fullscreen(void *envp, void *primary)
     mse_bind_mouse_jni(env);
     ui = mse_awt_nswindow(env, primary);
     if (!ui)
+        ui = mse_named_window(@"YT Music");
+    if (!ui)
         ui = mse_named_window(@"YMusic");
     if (!ui)
         return;
@@ -560,6 +570,8 @@ void mse_vt_toggle_fullscreen(void *envp, void *primary)
     if (!env)
         return;
     ui = primary ? mse_awt_nswindow(env, primary) : nil;
+    if (!ui)
+        ui = mse_named_window(@"YT Music");
     if (!ui)
         ui = mse_named_window(@"YMusic");
     if (!ui)

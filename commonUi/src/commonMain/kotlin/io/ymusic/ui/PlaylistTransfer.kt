@@ -335,7 +335,7 @@ internal class PlaylistTransferState(
 
     private fun backupFileName(): String {
         val date = Clock.System.now().toString().substringBefore('T')
-        return "YMusic-playlists-$date.json"
+        return "YT-Music-playlists-$date.json"
     }
 }
 

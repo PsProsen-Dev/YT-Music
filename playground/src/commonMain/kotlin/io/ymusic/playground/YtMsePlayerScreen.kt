@@ -700,7 +700,7 @@ private fun PlaygroundChrome(
     onQuality: (String) -> Unit,
     onCaption: (String?) -> Unit,
 ) {
-    Text("YMusic · MSE YouTube (engine-js + libav)", style = MaterialTheme.typography.titleMedium)
+    Text("YT Music · MSE YouTube (engine-js + libav)", style = MaterialTheme.typography.titleMedium)
     error?.let { Text(it, color = MaterialTheme.colorScheme.error) }
     if (booting) {
         Row(verticalAlignment = Alignment.CenterVertically, horizontalArrangement = Arrangement.spacedBy(8.dp)) {

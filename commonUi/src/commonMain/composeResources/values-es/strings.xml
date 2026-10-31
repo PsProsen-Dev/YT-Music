@@ -230,7 +230,7 @@
     <string name="overlay_fps">%1$d fps</string>
     <string name="settings_licenses">Licencias de código abierto</string>
     <string name="settings_terms">Términos y privacidad</string>
-    <string name="settings_licenses_intro">YMusic es de código abierto bajo la licencia GNU GPL v3.0. Incluye estos componentes:</string>
+    <string name="settings_licenses_intro">YT Music es de código abierto bajo la licencia GNU GPL v3.0. Incluye estos componentes:</string>
 
     <!-- Feedback -->
     <string name="feedback_intro">Cuéntanos qué ha fallado o qué te gustaría ver, en GitHub o por correo. Incluye tu información anónima de abajo para que podamos encontrar tus registros y responderte.</string>
@@ -246,10 +246,10 @@
     <string name="feedback_github_hint">Público. Ideal para errores e ideas — otros pueden seguirlo y aportar.</string>
     <string name="feedback_email_title">Escribir a %1$s</string>
     <string name="feedback_email_hint">Privado. Ideal para preguntas sobre tu cuenta o personales.</string>
-    <string name="feedback_email_subject">Comentarios sobre YMusic</string>
+    <string name="feedback_email_subject">Comentarios sobre YT Music</string>
     <string name="feedback_prefilled_note">Ambos se abren con la información ya rellenada. Si falta, pégala — sin ella no podemos ayudarte.</string>
     <string name="feedback_reports_off_title">Los informes anónimos están desactivados</string>
-    <string name="feedback_reports_off_message">Para revisar tu problema necesitamos los registros de esta app. Toca Continuar y YMusic volverá a activar los informes anónimos y enviará los registros.</string>
+    <string name="feedback_reports_off_message">Para revisar tu problema necesitamos los registros de esta app. Toca Continuar y YT Music volverá a activar los informes anónimos y enviará los registros.</string>
     <string name="feedback_reports_off_note">No se envía ningún nombre, correo ni cuenta. Puedes volver a desactivar los informes en Ajustes.</string>
     <string name="feedback_continue">Continuar</string>
     <string name="feedback_sentry_link">o a través de Sentry</string>
@@ -299,7 +299,7 @@
 
     <!-- YouTube sign-in -->
     <string name="signin_preface_title">Inicia sesión con YouTube</string>
-    <string name="signin_preface_subtitle">y disfruta de todas las funciones de YouTube en YMusic</string>
+    <string name="signin_preface_subtitle">y disfruta de todas las funciones de YouTube en YT Music</string>
     <string name="signin_enables">Al iniciar sesión tendrás:</string>
     <string name="signin_feature_home">Página de inicio de YouTube personalizada</string>
     <string name="signin_feature_subscriptions">Feed de suscripciones</string>
@@ -312,8 +312,8 @@
     <string name="signin_screen_title">Iniciar sesión</string>
     <string name="signin_loading">Cargando inicio de sesión…</string>
     <string name="signin_unavailable">El inicio de sesión aún no está disponible en este dispositivo</string>
-    <string name="signin_qr_title">Escanea con la app YMusic</string>
-    <string name="signin_qr_hint">En tu teléfono, abre YMusic → Ajustes → Vincular dispositivos → Abrir cámara y escanea este código.</string>
+    <string name="signin_qr_title">Escanea con la app YT Music</string>
+    <string name="signin_qr_hint">En tu teléfono, abre YT Music → Ajustes → Vincular dispositivos → Abrir cámara y escanea este código.</string>
     <string name="signin_qr_waiting">Esperando al teléfono…</string>
     <string name="signin_qr_sas_hint">Tu teléfono mostrará este mismo código. Envía solo si coinciden.</string>
     <string name="signin_or_paste">O pega las cookies de un navegador</string>
@@ -339,11 +339,11 @@
     <string name="signin_paste_no_cookie_title">Esa solicitud no tiene cookies</string>
     <string name="signin_paste_no_cookie_body">Copia como cURL otra solicitud, preferiblemente Fetch/XHR, por ejemplo:\nwww.youtube.com/generate_204\nwww.youtube.com/getDatasyncIdsEndpoint</string>
     <string name="signin_paste_no_cookie_ok">Entendido</string>
-    <string name="cd_device_link_qr">Código QR para escanear con la app YMusic</string>
+    <string name="cd_device_link_qr">Código QR para escanear con la app YT Music</string>
     <string name="settings_link_devices">Vincular dispositivos</string>
     <string name="settings_link_devices_hint">Inicia sesión en un ordenador escaneando su código QR</string>
     <string name="device_link_title">Vincular dispositivos</string>
-    <string name="device_link_intro">Escanea el código QR que muestra YMusic en tu ordenador. Este teléfono ya debe tener la sesión iniciada.</string>
+    <string name="device_link_intro">Escanea el código QR que muestra YT Music en tu ordenador. Este teléfono ya debe tener la sesión iniciada.</string>
     <string name="device_link_open_camera">Abrir cámara</string>
     <string name="device_link_scan_hint">Apunta la cámara al código QR del ordenador</string>
     <string name="device_link_sas_hint">Este código debe coincidir con el del ordenador. Si no coincide, toca Cancelar.</string>
@@ -567,7 +567,7 @@
     <string name="cd_move_to_top">Mover arriba del todo</string>
     <string name="dialog_undo">Deshacer</string>
     <string name="dialog_save">Guardar</string>
-    <string name="upgraded_message">YMusic se ha actualizado a la %1$s</string>
+    <string name="upgraded_message">YT Music se ha actualizado a la %1$s</string>
     <string name="upgraded_view_changelog">Ver novedades</string>
     <string name="menu_go_to_artist">Ir al artista</string>
     <string name="menu_go_to_album">Ir al álbum</string>

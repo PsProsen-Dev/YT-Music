@@ -228,7 +228,7 @@
     <string name="overlay_fps">%1$d fps</string>
     <string name="settings_licenses">Lisensi open source</string>
     <string name="settings_terms">Ketentuan &amp; privasi</string>
-    <string name="settings_licenses_intro">YMusic adalah open source di bawah GNU GPL v3.0. Aplikasi ini menyertakan komponen berikut:</string>
+    <string name="settings_licenses_intro">YT Music adalah open source di bawah GNU GPL v3.0. Aplikasi ini menyertakan komponen berikut:</string>
 
     <!-- Feedback -->
     <string name="feedback_intro">Beri tahu kami apa yang bermasalah atau apa yang ingin kamu lihat, di GitHub atau lewat email. Sertakan info anonim di bawah agar kami bisa menemukan log-mu dan membalas.</string>
@@ -244,10 +244,10 @@
     <string name="feedback_github_hint">Publik. Paling cocok untuk bug dan ide — orang lain bisa mengikuti dan menambahkan.</string>
     <string name="feedback_email_title">Email ke %1$s</string>
     <string name="feedback_email_hint">Pribadi. Paling cocok untuk pertanyaan akun atau pribadi.</string>
-    <string name="feedback_email_subject">Masukan YMusic</string>
+    <string name="feedback_email_subject">Masukan YT Music</string>
     <string name="feedback_prefilled_note">Keduanya terbuka dengan info yang sudah terisi. Jika tidak ada, tempelkan — tanpanya kami tidak bisa membantu.</string>
     <string name="feedback_reports_off_title">Laporan anonim nonaktif</string>
-    <string name="feedback_reports_off_message">Untuk memeriksa masalah Anda, kami membutuhkan log aplikasi ini. Ketuk Lanjutkan dan YMusic akan mengaktifkan kembali laporan anonim dan mengirim log.</string>
+    <string name="feedback_reports_off_message">Untuk memeriksa masalah Anda, kami membutuhkan log aplikasi ini. Ketuk Lanjutkan dan YT Music akan mengaktifkan kembali laporan anonim dan mengirim log.</string>
     <string name="feedback_reports_off_note">Tidak ada nama, email, atau akun yang dikirim. Anda bisa menonaktifkan laporan lagi di Setelan.</string>
     <string name="feedback_continue">Lanjutkan</string>
     <string name="feedback_sentry_link">atau lewat Sentry</string>
@@ -297,7 +297,7 @@
 
     <!-- YouTube sign-in -->
     <string name="signin_preface_title">Masuk dengan YouTube</string>
-    <string name="signin_preface_subtitle">dan dapatkan semua fitur YouTube di YMusic</string>
+    <string name="signin_preface_subtitle">dan dapatkan semua fitur YouTube di YT Music</string>
     <string name="signin_enables">Dengan masuk, Anda bisa:</string>
     <string name="signin_feature_home">Feed beranda YouTube yang dipersonalisasi</string>
     <string name="signin_feature_subscriptions">Feed langganan</string>
@@ -310,8 +310,8 @@
     <string name="signin_screen_title">Masuk</string>
     <string name="signin_loading">Memuat halaman masuk…</string>
     <string name="signin_unavailable">Fitur masuk belum tersedia di perangkat ini</string>
-    <string name="signin_qr_title">Pindai dengan aplikasi YMusic</string>
-    <string name="signin_qr_hint">Di ponsel Anda, buka YMusic → Setelan → Tautkan perangkat → Buka kamera, lalu pindai kode ini.</string>
+    <string name="signin_qr_title">Pindai dengan aplikasi YT Music</string>
+    <string name="signin_qr_hint">Di ponsel Anda, buka YT Music → Setelan → Tautkan perangkat → Buka kamera, lalu pindai kode ini.</string>
     <string name="signin_qr_waiting">Menunggu ponsel…</string>
     <string name="signin_qr_sas_hint">Ponsel Anda akan menampilkan kode yang sama. Kirim hanya jika keduanya cocok.</string>
     <string name="signin_or_paste">Atau tempel cookie dari browser</string>
@@ -337,11 +337,11 @@
     <string name="signin_paste_no_cookie_title">Permintaan itu tidak memiliki cookie</string>
     <string name="signin_paste_no_cookie_body">Gunakan Copy as cURL dari permintaan lain, sebaiknya Fetch/XHR, misalnya:\nwww.youtube.com/generate_204\nwww.youtube.com/getDatasyncIdsEndpoint</string>
     <string name="signin_paste_no_cookie_ok">Mengerti</string>
-    <string name="cd_device_link_qr">Kode QR untuk dipindai dengan aplikasi YMusic</string>
+    <string name="cd_device_link_qr">Kode QR untuk dipindai dengan aplikasi YT Music</string>
     <string name="settings_link_devices">Tautkan perangkat</string>
     <string name="settings_link_devices_hint">Masuk di komputer dengan memindai kode QR-nya</string>
     <string name="device_link_title">Tautkan perangkat</string>
-    <string name="device_link_intro">Pindai kode QR yang ditampilkan YMusic di komputer Anda. Ponsel ini harus sudah masuk.</string>
+    <string name="device_link_intro">Pindai kode QR yang ditampilkan YT Music di komputer Anda. Ponsel ini harus sudah masuk.</string>
     <string name="device_link_open_camera">Buka kamera</string>
     <string name="device_link_scan_hint">Arahkan kamera ke kode QR di komputer</string>
     <string name="device_link_sas_hint">Kode ini harus sama dengan di komputer. Jika tidak, ketuk Batal.</string>
@@ -557,7 +557,7 @@
     <string name="cd_move_to_top">Pindahkan ke atas</string>
     <string name="dialog_undo">Urungkan</string>
     <string name="dialog_save">Simpan</string>
-    <string name="upgraded_message">YMusic diperbarui ke %1$s</string>
+    <string name="upgraded_message">YT Music diperbarui ke %1$s</string>
     <string name="upgraded_view_changelog">Lihat catatan perubahan</string>
     <string name="menu_go_to_artist">Buka artis</string>
     <string name="menu_go_to_album">Buka album</string>

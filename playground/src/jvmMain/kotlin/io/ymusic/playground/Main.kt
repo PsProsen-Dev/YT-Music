@@ -14,7 +14,7 @@ fun main() {
     application {
         Window(
             onCloseRequest = ::exitApplication,
-            title = "YMusic · MSE playground",
+            title = "YT Music · MSE playground",
             state = rememberWindowState(size = DpSize(960.dp, 720.dp)),
         ) {
             MaterialTheme {

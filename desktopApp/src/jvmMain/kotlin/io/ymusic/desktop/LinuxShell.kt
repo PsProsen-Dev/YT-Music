@@ -68,7 +68,7 @@ internal fun installLinuxDesktopEntry(icon: BufferedImage) {
     val entry = """
         |[Desktop Entry]
         |Type=Application
-        |Name=YMusic
+        |Name=YT Music
         |Exec="$exec"
         |Icon=${iconFile.absolutePath}
         |StartupWMClass=$LINUX_WM_CLASS

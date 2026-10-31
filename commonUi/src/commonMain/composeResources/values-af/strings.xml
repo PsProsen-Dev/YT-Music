@@ -229,7 +229,7 @@
     <string name="overlay_fps">%1$d fps</string>
     <string name="settings_licenses">Oopbronlisensies</string>
     <string name="settings_terms">Bepalings &amp; privaatheid</string>
-    <string name="settings_licenses_intro">YMusic is oopbron onder die GNU GPL v3.0. Dit sluit hierdie komponente in:</string>
+    <string name="settings_licenses_intro">YT Music is oopbron onder die GNU GPL v3.0. Dit sluit hierdie komponente in:</string>
 
     <!-- Feedback -->
     <string name="feedback_intro">Vertel ons wat verkeerd geloop het of wat jy graag wil sien, op GitHub of per e-pos. Sluit jou anonieme inligting hieronder in sodat ons jou logs kan vind en antwoord.</string>
@@ -245,10 +245,10 @@
     <string name="feedback_github_hint">Publiek. Die beste vir foute en idees — ander kan dit volg en byvoeg.</string>
     <string name="feedback_email_title">E-pos %1$s</string>
     <string name="feedback_email_hint">Privaat. Die beste vir rekening- of persoonlike vrae.</string>
-    <string name="feedback_email_subject">YMusic-terugvoer</string>
+    <string name="feedback_email_subject">YT Music-terugvoer</string>
     <string name="feedback_prefilled_note">Albei maak oop met die inligting reeds ingevul. As dit ontbreek, plak dit in — sonder dit kan ons nie help nie.</string>
     <string name="feedback_reports_off_title">Anonieme verslae is af</string>
-    <string name="feedback_reports_off_message">Om na jou probleem te kyk, het ons hierdie toep se logs nodig. Tik Gaan voort en YMusic skakel anonieme verslae weer aan en stuur die logs.</string>
+    <string name="feedback_reports_off_message">Om na jou probleem te kyk, het ons hierdie toep se logs nodig. Tik Gaan voort en YT Music skakel anonieme verslae weer aan en stuur die logs.</string>
     <string name="feedback_reports_off_note">Geen naam, e-pos of rekening word gestuur nie. Jy kan verslae weer in Instellings afskakel.</string>
     <string name="feedback_continue">Gaan voort</string>
     <string name="feedback_sentry_link">of via Sentry</string>
@@ -298,7 +298,7 @@
 
     <!-- YouTube sign-in -->
     <string name="signin_preface_title">Meld aan met YouTube</string>
-    <string name="signin_preface_subtitle">en kry al die YouTube-funksies binne YMusic</string>
+    <string name="signin_preface_subtitle">en kry al die YouTube-funksies binne YT Music</string>
     <string name="signin_enables">Aanmelding stel jou in staat tot:</string>
     <string name="signin_feature_home">Gepersonaliseerde YouTube-tuisstroom</string>
     <string name="signin_feature_subscriptions">Intekeningstroom</string>
@@ -311,8 +311,8 @@
     <string name="signin_screen_title">Meld aan</string>
     <string name="signin_loading">Laai tans aanmelding…</string>
     <string name="signin_unavailable">Aanmelding is nog nie op hierdie toestel beskikbaar nie</string>
-    <string name="signin_qr_title">Skandeer met die YMusic-app</string>
-    <string name="signin_qr_hint">Maak op jou foon YMusic → Instellings → Koppel toestelle → Maak kamera oop, en skandeer dan hierdie kode.</string>
+    <string name="signin_qr_title">Skandeer met die YT Music-app</string>
+    <string name="signin_qr_hint">Maak op jou foon YT Music → Instellings → Koppel toestelle → Maak kamera oop, en skandeer dan hierdie kode.</string>
     <string name="signin_qr_waiting">Wag vir die foon…</string>
     <string name="signin_qr_sas_hint">Jou foon sal dieselfde kode wys. Stuur net as hulle ooreenstem.</string>
     <string name="signin_or_paste">Of plak koekies uit 'n blaaier</string>
@@ -338,11 +338,11 @@
     <string name="signin_paste_no_cookie_title">Daardie versoek het geen koekies nie</string>
     <string name="signin_paste_no_cookie_body">Kopieer as cURL vanaf 'n ander versoek, verkieslik Fetch/XHR, byvoorbeeld:\nwww.youtube.com/generate_204\nwww.youtube.com/getDatasyncIdsEndpoint</string>
     <string name="signin_paste_no_cookie_ok">Reg so</string>
-    <string name="cd_device_link_qr">QR-kode om met die YMusic-app te skandeer</string>
+    <string name="cd_device_link_qr">QR-kode om met die YT Music-app te skandeer</string>
     <string name="settings_link_devices">Koppel toestelle</string>
     <string name="settings_link_devices_hint">Meld op 'n rekenaar aan deur sy QR-kode te skandeer</string>
     <string name="device_link_title">Koppel toestelle</string>
-    <string name="device_link_intro">Skandeer die QR-kode wat in YMusic op jou rekenaar gewys word. Hierdie foon moet reeds aangemeld wees.</string>
+    <string name="device_link_intro">Skandeer die QR-kode wat in YT Music op jou rekenaar gewys word. Hierdie foon moet reeds aangemeld wees.</string>
     <string name="device_link_open_camera">Maak kamera oop</string>
     <string name="device_link_scan_hint">Rig die kamera op die rekenaar se QR-kode</string>
     <string name="device_link_sas_hint">Hierdie kode moet met die rekenaar s'n ooreenstem. Indien nie, tik Kanselleer.</string>
@@ -562,7 +562,7 @@
     <string name="cd_move_to_top">Skuif na bo</string>
     <string name="dialog_undo">Ontdoen</string>
     <string name="dialog_save">Stoor</string>
-    <string name="upgraded_message">YMusic is opgedateer na %1$s</string>
+    <string name="upgraded_message">YT Music is opgedateer na %1$s</string>
     <string name="upgraded_view_changelog">Bekyk veranderinglys</string>
     <string name="menu_go_to_artist">Gaan na kunstenaar</string>
     <string name="menu_go_to_album">Gaan na album</string>

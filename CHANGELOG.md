@@ -7,7 +7,7 @@
 - The same song menu in every list: Go to artist, Go to album and Add to playlist in the Library, Library search and the queue; Library search also gets Show in folder and Remove from disk ([#45](https://github.com/ymusic-io/YMusicV4/issues/45), [#55](https://github.com/ymusic-io/YMusicV4/issues/55), [b4038e2d3](https://github.com/ymusic-io/YMusicV4/commit/b4038e2d3c741772790159139a74063137ba4c14))
 - Downloads: rename a finished download's file, add it to a playlist, share it, download it in another format, or remove it from disk ([#45](https://github.com/ymusic-io/YMusicV4/issues/45), [824d94527](https://github.com/ymusic-io/YMusicV4/commit/824d9452729f4d98e31bf85d383626a5a162e93e), [d79316ff8](https://github.com/ymusic-io/YMusicV4/commit/d79316ff84e0f2e6bd3b6df2e405bb4899a766bc), [9b94d61ff](https://github.com/ymusic-io/YMusicV4/commit/9b94d61ffb3406479a107efb971bcc5c972f50a5), [43d29aa03](https://github.com/ymusic-io/YMusicV4/commit/43d29aa0328da377310fcbd4b3dfcfe6c8632467))
 - Switch a YouTube video's audio track, e.g. take an auto-dubbed video back to its original language ([#36](https://github.com/ymusic-io/YMusicV4/issues/36), [8d5e10ae6](https://github.com/ymusic-io/YMusicV4/commit/8d5e10ae6128f98236840c2b05911e9c9b8b4a6c), [d04f2e1f7](https://github.com/ymusic-io/YMusicV4/commit/d04f2e1f775a37cf5933f3169fb286cbcfd525a7))
-- Android: Open with YMusic for audio and video files from file managers and chat apps ([67f0a273e](https://github.com/ymusic-io/YMusicV4/commit/67f0a273eaa343cb717c0e45c548ee7a0a848f05))
+- Android: Open with YT Music for audio and video files from file managers and chat apps ([67f0a273e](https://github.com/ymusic-io/YMusicV4/commit/67f0a273eaa343cb717c0e45c548ee7a0a848f05))
 - Now Playing: Search lyrics menu item ([35b76fa58](https://github.com/ymusic-io/YMusicV4/commit/35b76fa589992076af91d2dfa765b94b617f73c2))
 - Now Playing: the playing song is highlighted in the queue, and a button next to "Up next" scrolls back to it ([#40](https://github.com/ymusic-io/YMusicV4/issues/40), [3a3933bf4](https://github.com/ymusic-io/YMusicV4/commit/3a3933bf4198e97a3885332b9674b6b730fb9b74))
 - Library: sort songs by track number ([#46](https://github.com/ymusic-io/YMusicV4/issues/46), [fb519acc8](https://github.com/ymusic-io/YMusicV4/commit/fb519acc8feaaaa5bb033186f7aaa8e306ad561a))
@@ -33,7 +33,7 @@
 ### NEW
 - Arrange your own playlist's songs: a Manual sort opens a dialog to drag, remove, and stack songs at the top with Move to top ([#28](https://github.com/ymusic-io/YMusicV4/issues/28), [36fedbc2e](https://github.com/ymusic-io/YMusicV4/commit/36fedbc2e112c468588dfa0abf2b2a7718ed1605))
 - Swipe a song in the Now Playing queue to the right to remove it ([#28](https://github.com/ymusic-io/YMusicV4/issues/28), [ab2ca58ed](https://github.com/ymusic-io/YMusicV4/commit/ab2ca58ed0b92e87f2755ef7dbb0daa390cdc515))
-- "YMusic updated" notice on the first launch after an update, with a link to the changelog ([c6fe6aeea](https://github.com/ymusic-io/YMusicV4/commit/c6fe6aeea7a4c8cde71651786e6b5446be4cc611))
+- "YT Music updated" notice on the first launch after an update, with a link to the changelog ([c6fe6aeea](https://github.com/ymusic-io/YMusicV4/commit/c6fe6aeea7a4c8cde71651786e6b5446be4cc611))
 - Feedback: reach us on GitHub or by email quoting your anonymous Device ID, which finds the app logs sent with it, or send a message straight from the app ([0793283a4](https://github.com/ymusic-io/YMusicV4/commit/0793283a44f137d4583f26d43e345b03bb1d0ef3))
 
 ### FIXED
@@ -81,7 +81,7 @@
 
 ### NEW
 - Import your playlists from other music apps (Android), and back up and restore your playlists ([a699bd263..f682e498e](https://github.com/ymusic-io/YMusicV4/compare/0a2baec60c65482323e4b1317079dfa8d9843768...f682e498e6ffd122a9be63eb0e15fb1403fffe15))
-- Android: play by voice with Gemini or Google Assistant ("play Eminem on YMusic"), on the phone and in Android Auto ([8ceba3de9](https://github.com/ymusic-io/YMusicV4/commit/8ceba3de90106ab234992c9213309cab19965f6c))
+- Android: play by voice with Gemini or Google Assistant ("play Eminem on YT Music"), on the phone and in Android Auto ([8ceba3de9](https://github.com/ymusic-io/YMusicV4/commit/8ceba3de90106ab234992c9213309cab19965f6c))
 - Android Auto: your YouTube library (history, Watch later, Liked videos, subscriptions) in Discover ([5bf1149ca](https://github.com/ymusic-io/YMusicV4/commit/5bf1149ca10120f896d5888a8ed0c6f88aceb8d1))
 - Android Auto: shuffle and repeat buttons ([ad5bb9895](https://github.com/ymusic-io/YMusicV4/commit/ad5bb98955c03fd062be107b0aeff19e1ff6c5f5))
 - Create a local playlist from the downloaded videos of a YouTube playlist ([332363518](https://github.com/ymusic-io/YMusicV4/commit/332363518c1be8c49b6b2209f203d7c809f3c03d))
@@ -90,7 +90,7 @@
 - Terms of use and privacy policy, linked from Settings → About ([3b9e735b4..1d1f827f3](https://github.com/ymusic-io/YMusicV4/compare/947e33bf52aab79421c04e00701cabeb5006fbc0...1d1f827f37e150708a2a5132772bbf53d1454ca5))
 
 ### FIXED
-- Android Auto: YMusic kept loading and showed nothing when the app wasn't already running ([b82f5ac77](https://github.com/ymusic-io/YMusicV4/commit/b82f5ac77bbdd30cffae6fff86ea537bf02c2e79))
+- Android Auto: YT Music kept loading and showed nothing when the app wasn't already running ([b82f5ac77](https://github.com/ymusic-io/YMusicV4/commit/b82f5ac77bbdd30cffae6fff86ea537bf02c2e79))
 - Android Auto: YT Music albums and playlists didn't open ([162f9498c](https://github.com/ymusic-io/YMusicV4/commit/162f9498c5486815cdb1fa73c2cdf4470668c276))
 - With repeat one on, a video froze on its last frame after seeking to the end or skipping a SponsorBlock outro ([a26ae1633..f70bd983a](https://github.com/ymusic-io/YMusicV4/compare/119c329cfde5dca30c6e5ad87fad1b696085452e...f70bd983ad7b19776c5d366b2f0d7fa5f64e0dc8))
 - Playback could stay loading forever after a long listening session ([b0901d97c](https://github.com/ymusic-io/YMusicV4/commit/b0901d97ce8854090dc901a09ad1de6d775514db))
@@ -306,4 +306,4 @@
 - Update dialog shows 7 lines of release notes ([a14fcb415](https://github.com/ymusic-io/YMusicV4/commit/a14fcb4155b2a348dc15482864b2a77e9317351e))
 
 ## 4.0.0 ([3bac880ac](https://github.com/ymusic-io/YMusicV4/commit/3bac880acdd9598051c3c706e72d62318be3b4c3))
-- First release of YMusic V4.
+- First release of YT Music.

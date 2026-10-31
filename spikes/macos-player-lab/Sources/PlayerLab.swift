@@ -9,7 +9,7 @@ import Player
 @main
 struct PlayerLabApp: App {
     var body: some Scene {
-        WindowGroup("YMusic · :player (macOS native)") {
+        WindowGroup("YT Music · :player (macOS native)") {
             RootView()
         }
     }

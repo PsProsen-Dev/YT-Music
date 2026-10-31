@@ -284,17 +284,17 @@ class UpdateService internal constructor(
      *  partial download stays for the next attempt to resume. */
     fun pruneDownloads() {
         downloadDir.listFiles().orEmpty().forEach { file ->
-            val versionCode = file.name.removePrefix("YMusic-").substringBefore('.').substringBefore('-').toIntOrNull()
+            val versionCode = file.name.removePrefix("YT-Music-").removePrefix("YTMusic-").removePrefix("YMusic-").substringBefore('.').substringBefore('-').toIntOrNull()
             if (versionCode == null || versionCode <= currentVersionCode) file.deleteRecursively()
         }
     }
 
     /** Named after the version AND hash: a re-published release must not continue the old bytes. */
     private fun partFile(update: AppUpdate) =
-        File(downloadDir, "YMusic-${update.versionCode}-${update.sha256.take(16)}.${installer.extension}.part")
+        File(downloadDir, "YT-Music-${update.versionCode}-${update.sha256.take(16)}.${installer.extension}.part")
 
     private fun installerFile(update: AppUpdate) =
-        File(downloadDir, "YMusic-${update.versionCode}.${installer.extension}")
+        File(downloadDir, "YT-Music-${update.versionCode}.${installer.extension}")
 }
 
 class UpdateVerificationException(message: String) : Exception(message)

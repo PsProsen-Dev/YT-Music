@@ -94,7 +94,7 @@ fun ApplicationScope.MiniPlayerWindow(
         .coerceIn(8, screen.width - WIDTH_DP - 8)
     Window(
         onCloseRequest = onClose,
-        title = "YMusic",
+        title = "YT Music",
         undecorated = true,
         transparent = true,
         resizable = false,
@@ -274,7 +274,7 @@ fun PlayerTray(icon: Painter, logger: Logger, onClick: (screenX: Int) -> Unit) {
             } else {
                 java.awt.image.BaseMultiResolutionImage(render(1), render(2))
             }
-            TrayIcon(image, "YMusic").apply {
+            TrayIcon(image, "YT Music").apply {
                 addMouseListener(
                     object : MouseAdapter() {
                         // TrayIcon events carry SCREEN coordinates (there is no component space).

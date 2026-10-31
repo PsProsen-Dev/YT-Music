@@ -165,7 +165,7 @@ class AndroidAppUpdates(
      *  partial download stays for the next attempt to resume. */
     fun pruneDownloads() {
         downloadDir.listFiles().orEmpty().forEach { file ->
-            val versionCode = file.name.removePrefix("YMusic-").substringBefore('.').substringBefore('-').toIntOrNull()
+            val versionCode = file.name.removePrefix("YTMusic-").removePrefix("YMusic-").substringBefore('.').substringBefore('-').toIntOrNull()
             if (versionCode == null || versionCode <= currentVersionCode) file.delete()
         }
     }
@@ -344,9 +344,9 @@ class AndroidAppUpdates(
     }
 
     /** Named after the version AND hash: a re-published release must not continue the old bytes. */
-    private fun partFile(update: AppUpdate) = File(downloadDir, "YMusic-${update.versionCode}-${update.sha256.take(16)}.apk.part")
+    private fun partFile(update: AppUpdate) = File(downloadDir, "YTMusic-${update.versionCode}-${update.sha256.take(16)}.apk.part")
 
-    private fun apkFile(update: AppUpdate) = File(downloadDir, "YMusic-${update.versionCode}.apk")
+    private fun apkFile(update: AppUpdate) = File(downloadDir, "YTMusic-${update.versionCode}.apk")
 }
 
 private const val BROWSER_FALLBACK_AFTER_MS = 60 * 60 * 1000L

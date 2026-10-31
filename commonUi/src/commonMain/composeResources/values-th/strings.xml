@@ -228,7 +228,7 @@
     <string name="overlay_fps">%1$d fps</string>
     <string name="settings_licenses">ใบอนุญาตโอเพนซอร์ส</string>
     <string name="settings_terms">ข้อกำหนดและความเป็นส่วนตัว</string>
-    <string name="settings_licenses_intro">YMusic เป็นโอเพนซอร์สภายใต้ GNU GPL v3.0 และมีส่วนประกอบต่อไปนี้:</string>
+    <string name="settings_licenses_intro">YT Music เป็นโอเพนซอร์สภายใต้ GNU GPL v3.0 และมีส่วนประกอบต่อไปนี้:</string>
 
     <!-- Feedback -->
     <string name="feedback_intro">บอกเราว่าเกิดปัญหาอะไรหรืออยากเห็นอะไร ผ่าน GitHub หรืออีเมล แนบข้อมูลนิรนามด้านล่างเพื่อให้เราหาบันทึกของคุณและตอบกลับได้</string>
@@ -244,10 +244,10 @@
     <string name="feedback_github_hint">สาธารณะ เหมาะสำหรับบั๊กและไอเดีย — คนอื่นติดตามและเพิ่มเติมได้</string>
     <string name="feedback_email_title">ส่งอีเมลถึง %1$s</string>
     <string name="feedback_email_hint">ส่วนตัว เหมาะสำหรับคำถามเกี่ยวกับบัญชีหรือเรื่องส่วนตัว</string>
-    <string name="feedback_email_subject">ความคิดเห็นเกี่ยวกับ YMusic</string>
+    <string name="feedback_email_subject">ความคิดเห็นเกี่ยวกับ YT Music</string>
     <string name="feedback_prefilled_note">ทั้งสองแบบจะเปิดพร้อมข้อมูลที่กรอกไว้แล้ว หากไม่มี ให้วางข้อมูลลงไป — หากไม่มีข้อมูลนี้เราช่วยไม่ได้</string>
     <string name="feedback_reports_off_title">รายงานแบบไม่ระบุตัวตนปิดอยู่</string>
-    <string name="feedback_reports_off_message">เพื่อตรวจสอบปัญหาของคุณ เราต้องใช้บันทึกของแอปนี้ แตะดำเนินการต่อ แล้ว YMusic จะเปิดรายงานแบบไม่ระบุตัวตนอีกครั้งและส่งบันทึก</string>
+    <string name="feedback_reports_off_message">เพื่อตรวจสอบปัญหาของคุณ เราต้องใช้บันทึกของแอปนี้ แตะดำเนินการต่อ แล้ว YT Music จะเปิดรายงานแบบไม่ระบุตัวตนอีกครั้งและส่งบันทึก</string>
     <string name="feedback_reports_off_note">ไม่มีการส่งชื่อ อีเมล หรือบัญชี คุณปิดรายงานอีกครั้งได้ในการตั้งค่า</string>
     <string name="feedback_continue">ดำเนินการต่อ</string>
     <string name="feedback_sentry_link">หรือผ่าน Sentry</string>
@@ -297,7 +297,7 @@
 
     <!-- YouTube sign-in -->
     <string name="signin_preface_title">ลงชื่อเข้าใช้ด้วย YouTube</string>
-    <string name="signin_preface_subtitle">และใช้ฟีเจอร์ทั้งหมดของ YouTube ใน YMusic</string>
+    <string name="signin_preface_subtitle">และใช้ฟีเจอร์ทั้งหมดของ YouTube ใน YT Music</string>
     <string name="signin_enables">การลงชื่อเข้าใช้จะเปิดใช้:</string>
     <string name="signin_feature_home">ฟีดหน้าแรก YouTube ที่ปรับให้เหมาะกับคุณ</string>
     <string name="signin_feature_subscriptions">ฟีดช่องที่ติดตาม</string>
@@ -310,8 +310,8 @@
     <string name="signin_screen_title">ลงชื่อเข้าใช้</string>
     <string name="signin_loading">กำลังโหลดการลงชื่อเข้าใช้…</string>
     <string name="signin_unavailable">ยังลงชื่อเข้าใช้บนอุปกรณ์นี้ไม่ได้</string>
-    <string name="signin_qr_title">สแกนด้วยแอป YMusic</string>
-    <string name="signin_qr_hint">บนโทรศัพท์ ให้เปิด YMusic → การตั้งค่า → ลิงก์อุปกรณ์ → เปิดกล้อง แล้วสแกนโค้ดนี้</string>
+    <string name="signin_qr_title">สแกนด้วยแอป YT Music</string>
+    <string name="signin_qr_hint">บนโทรศัพท์ ให้เปิด YT Music → การตั้งค่า → ลิงก์อุปกรณ์ → เปิดกล้อง แล้วสแกนโค้ดนี้</string>
     <string name="signin_qr_waiting">กำลังรอโทรศัพท์…</string>
     <string name="signin_qr_sas_hint">โทรศัพท์ของคุณจะแสดงโค้ดเดียวกันนี้ ส่งเฉพาะเมื่อโค้ดตรงกัน</string>
     <string name="signin_or_paste">หรือวางคุกกี้จากเบราว์เซอร์</string>
@@ -337,11 +337,11 @@
     <string name="signin_paste_no_cookie_title">คำขอนั้นไม่มีคุกกี้</string>
     <string name="signin_paste_no_cookie_body">ใช้ Copy as cURL จากคำขออื่น โดยควรเป็น Fetch/XHR เช่น:\nwww.youtube.com/generate_204\nwww.youtube.com/getDatasyncIdsEndpoint</string>
     <string name="signin_paste_no_cookie_ok">เข้าใจแล้ว</string>
-    <string name="cd_device_link_qr">คิวอาร์โค้ดสำหรับสแกนด้วยแอป YMusic</string>
+    <string name="cd_device_link_qr">คิวอาร์โค้ดสำหรับสแกนด้วยแอป YT Music</string>
     <string name="settings_link_devices">ลิงก์อุปกรณ์</string>
     <string name="settings_link_devices_hint">ลงชื่อเข้าใช้บนคอมพิวเตอร์ด้วยการสแกนคิวอาร์โค้ด</string>
     <string name="device_link_title">ลิงก์อุปกรณ์</string>
-    <string name="device_link_intro">สแกนคิวอาร์โค้ดที่แสดงใน YMusic บนคอมพิวเตอร์ของคุณ โทรศัพท์เครื่องนี้ต้องลงชื่อเข้าใช้อยู่แล้ว</string>
+    <string name="device_link_intro">สแกนคิวอาร์โค้ดที่แสดงใน YT Music บนคอมพิวเตอร์ของคุณ โทรศัพท์เครื่องนี้ต้องลงชื่อเข้าใช้อยู่แล้ว</string>
     <string name="device_link_open_camera">เปิดกล้อง</string>
     <string name="device_link_scan_hint">หันกล้องไปที่คิวอาร์โค้ดบนคอมพิวเตอร์</string>
     <string name="device_link_sas_hint">โค้ดนี้ต้องตรงกับบนคอมพิวเตอร์ หากไม่ตรง ให้แตะยกเลิก</string>
@@ -557,7 +557,7 @@
     <string name="cd_move_to_top">ย้ายไปบนสุด</string>
     <string name="dialog_undo">เลิกทำ</string>
     <string name="dialog_save">บันทึก</string>
-    <string name="upgraded_message">อัปเดต YMusic เป็น %1$s แล้ว</string>
+    <string name="upgraded_message">อัปเดต YT Music เป็น %1$s แล้ว</string>
     <string name="upgraded_view_changelog">ดูบันทึกการเปลี่ยนแปลง</string>
     <string name="menu_go_to_artist">ไปที่ศิลปิน</string>
     <string name="menu_go_to_album">ไปที่อัลบั้ม</string>

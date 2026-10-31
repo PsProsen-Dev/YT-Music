@@ -24,7 +24,7 @@ import kmphttp.create
 fun main() = application {
     Window(
         onCloseRequest = ::exitApplication,
-        title = "YMusic · UI catalogue",
+        title = "YT Music · UI catalogue",
         state = rememberWindowState(size = DpSize(460.dp, 940.dp)),
     ) {
         val loader = remember {

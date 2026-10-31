@@ -37,8 +37,8 @@ sentry {
 
 val appVersionName = appVersionName()
 
-// Outputs read YMusic-<versionName>-<abi>-release.apk.
-base { archivesName.set("YMusic-$appVersionName") }
+// Outputs read YTMusic-<versionName>-<abi>-release.apk.
+base { archivesName.set("YTMusic-$appVersionName") }
 
 // The ABIs every native the app needs — quickjs, mse, ffmpeg — is built for. A device on any other
 // ABI could install an APK carrying only some of them and crash at the first engine call.

@@ -321,7 +321,7 @@ compose.desktop {
         }
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "YMusic"
+            packageName = "YT Music"
             packageVersion = desktopVersion
             macOS {
                 // Stable across releases: the updater and Gatekeeper both identify the app by it.
@@ -485,15 +485,15 @@ tasks.matching { it.name == "proguardReleaseJars" }.configureEach {
 }
 
 // The host's installer under a name that says what it is for, ready for sign-app-update.mjs:
-//   ./gradlew :desktopApp:releaseInstaller   →   build/release/YMusic-<version>-<platform>.<dmg|msi|deb>
+//   ./gradlew :desktopApp:releaseInstaller   →   build/release/YT-Music-<version>-<platform>.<dmg|msi|deb>
 tasks.register<Copy>("releaseInstaller") {
     group = "distribution"
-    description = "Package the release installer for this OS/arch and name it YMusic-<version>-<platform>."
+    description = "Package the release installer for this OS/arch and name it YT-Music-<version>-<platform>."
     val format = mapOf("macos" to "Dmg", "windows" to "Msi", "linux" to "Deb").getValue(hostOs)
     dependsOn("packageRelease$format")
     from(layout.buildDirectory.dir("compose/binaries/main-release/${format.lowercase()}"))
     include("*.${format.lowercase()}")
-    rename { "YMusic-$desktopVersion-$hostPlatform.${format.lowercase()}" }
+    rename { "YT-Music-$desktopVersion-$hostPlatform.${format.lowercase()}" }
     into(layout.buildDirectory.dir("release"))
 }
 

@@ -230,7 +230,7 @@
     <string name="overlay_fps">%1$d fps</string>
     <string name="settings_licenses">Licențe open source</string>
     <string name="settings_terms">Termeni și confidențialitate</string>
-    <string name="settings_licenses_intro">YMusic este open source sub licența GNU GPL v3.0. Include aceste componente:</string>
+    <string name="settings_licenses_intro">YT Music este open source sub licența GNU GPL v3.0. Include aceste componente:</string>
 
     <!-- Feedback -->
     <string name="feedback_intro">Spune-ne ce nu a mers sau ce ți-ai dori să vezi, pe GitHub sau prin e-mail. Include informațiile tale anonime de mai jos ca să găsim jurnalele tale și să-ți răspundem.</string>
@@ -246,10 +246,10 @@
     <string name="feedback_github_hint">Public. Ideal pentru erori și idei — alții pot urmări și adăuga.</string>
     <string name="feedback_email_title">Scrie la %1$s</string>
     <string name="feedback_email_hint">Privat. Ideal pentru întrebări despre cont sau personale.</string>
-    <string name="feedback_email_subject">Feedback YMusic</string>
+    <string name="feedback_email_subject">Feedback YT Music</string>
     <string name="feedback_prefilled_note">Ambele se deschid cu informațiile deja completate. Dacă lipsesc, lipește-le — fără ele nu te putem ajuta.</string>
     <string name="feedback_reports_off_title">Rapoartele anonime sunt dezactivate</string>
-    <string name="feedback_reports_off_message">Ca să investigăm problema, avem nevoie de jurnalele acestei aplicații. Atinge Continuă și YMusic reactivează rapoartele anonime și trimite jurnalele.</string>
+    <string name="feedback_reports_off_message">Ca să investigăm problema, avem nevoie de jurnalele acestei aplicații. Atinge Continuă și YT Music reactivează rapoartele anonime și trimite jurnalele.</string>
     <string name="feedback_reports_off_note">Nu se trimite niciun nume, e-mail sau cont. Poți dezactiva din nou rapoartele în Setări.</string>
     <string name="feedback_continue">Continuă</string>
     <string name="feedback_sentry_link">sau prin Sentry</string>
@@ -299,7 +299,7 @@
 
     <!-- YouTube sign-in -->
     <string name="signin_preface_title">Conectează-te cu YouTube</string>
-    <string name="signin_preface_subtitle">și obține toate funcțiile YouTube în YMusic</string>
+    <string name="signin_preface_subtitle">și obține toate funcțiile YouTube în YT Music</string>
     <string name="signin_enables">Conectarea îți oferă:</string>
     <string name="signin_feature_home">Pagină de pornire YouTube personalizată</string>
     <string name="signin_feature_subscriptions">Feed abonamente</string>
@@ -312,8 +312,8 @@
     <string name="signin_screen_title">Conectare</string>
     <string name="signin_loading">Se încarcă conectarea…</string>
     <string name="signin_unavailable">Conectarea nu este încă disponibilă pe acest dispozitiv</string>
-    <string name="signin_qr_title">Scanează cu aplicația YMusic</string>
-    <string name="signin_qr_hint">Pe telefon, deschide YMusic → Setări → Conectează dispozitive → Deschide camera, apoi scanează acest cod.</string>
+    <string name="signin_qr_title">Scanează cu aplicația YT Music</string>
+    <string name="signin_qr_hint">Pe telefon, deschide YT Music → Setări → Conectează dispozitive → Deschide camera, apoi scanează acest cod.</string>
     <string name="signin_qr_waiting">Se așteaptă telefonul…</string>
     <string name="signin_qr_sas_hint">Telefonul va afișa același cod. Trimite doar dacă se potrivesc.</string>
     <string name="signin_or_paste">Sau lipește cookie-uri dintr-un browser</string>
@@ -339,11 +339,11 @@
     <string name="signin_paste_no_cookie_title">Cererea respectivă nu are cookie-uri</string>
     <string name="signin_paste_no_cookie_body">Folosește Copy as cURL pe altă cerere, de preferință Fetch/XHR, de exemplu:\nwww.youtube.com/generate_204\nwww.youtube.com/getDatasyncIdsEndpoint</string>
     <string name="signin_paste_no_cookie_ok">Am înțeles</string>
-    <string name="cd_device_link_qr">Cod QR de scanat cu aplicația YMusic</string>
+    <string name="cd_device_link_qr">Cod QR de scanat cu aplicația YT Music</string>
     <string name="settings_link_devices">Conectează dispozitive</string>
     <string name="settings_link_devices_hint">Conectează-te pe un computer scanând codul QR al acestuia</string>
     <string name="device_link_title">Conectează dispozitive</string>
-    <string name="device_link_intro">Scanează codul QR afișat în YMusic pe computer. Acest telefon trebuie să fie deja conectat.</string>
+    <string name="device_link_intro">Scanează codul QR afișat în YT Music pe computer. Acest telefon trebuie să fie deja conectat.</string>
     <string name="device_link_open_camera">Deschide camera</string>
     <string name="device_link_scan_hint">Îndreaptă camera spre codul QR de pe computer</string>
     <string name="device_link_sas_hint">Acest cod trebuie să fie identic cu cel de pe computer. Dacă nu este, atinge Anulează.</string>
@@ -567,7 +567,7 @@
     <string name="cd_move_to_top">Mută sus</string>
     <string name="dialog_undo">Anulează</string>
     <string name="dialog_save">Salvează</string>
-    <string name="upgraded_message">YMusic a fost actualizat la %1$s</string>
+    <string name="upgraded_message">YT Music a fost actualizat la %1$s</string>
     <string name="upgraded_view_changelog">Vezi modificările</string>
     <string name="menu_go_to_artist">Spre artist</string>
     <string name="menu_go_to_album">Spre album</string>
