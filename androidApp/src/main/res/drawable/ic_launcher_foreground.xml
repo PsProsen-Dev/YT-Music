@@ -1,16 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Play glyph from ymusic_logo.xml, placed with the ring background in the
-     adaptive-icon safe zone (1024 art on a 1536 canvas = inner 72 of 108 dp). -->
+<!-- Original glyph (branding/yt-music-icon.svg): a play triangle as the head of
+     an eighth note. Scaled into the adaptive-icon circular safe zone. -->
 <vector xmlns:android="http://schemas.android.com/apk/res/android"
     android:width="108dp"
     android:height="108dp"
-    android:viewportWidth="1536"
-    android:viewportHeight="1536">
+    android:viewportWidth="108"
+    android:viewportHeight="108">
     <group
-        android:translateX="256"
-        android:translateY="256">
+        android:translateX="5.9"
+        android:translateY="5.5"
+        android:scaleX="0.84"
+        android:scaleY="0.84">
         <path
-            android:pathData="M366.92,382.68 Q366.92,277.28 461.19,324.4 L742.11,464.86 Q836.38,512 742.11,559.14 L461.19,699.6 Q366.92,746.72 366.92,641.32 Z"
+            android:pathData="M32.5,58.5 Q32.5,54.5 37,56.3 L52.5,65.8 Q57.5,68.8 57.5,71.5 Q57.5,74.2 52.5,77.2 L37,86.7 Q32.5,88.5 32.5,84.5 Z"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M50.5,27 L57,27 L57,71.5 L50.5,71.5 Z"
+            android:fillColor="#FFFFFF" />
+        <path
+            android:pathData="M57,27 C70,28.5 79.5,36 81,47.5 C82,55.5 80,62.5 75.5,67.5 C77.5,56 72.5,45.5 63,40.8 C60.5,39.6 58.3,39 57,38.8 Z"
             android:fillColor="#FFFFFF" />
     </group>
 </vector>

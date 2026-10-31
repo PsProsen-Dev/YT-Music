@@ -1,5 +1,7 @@
 # YT Music
 
+<p align="center"><img src="branding/yt-music-icon.svg" width="120" alt="YT Music icon"></p>
+
 A Kotlin Multiplatform music player for Android, desktop (MacOs, Windows, Linux), and iOS/iPad.
 
 > [!CAUTION]
@@ -7,6 +9,22 @@ A Kotlin Multiplatform music player for Android, desktop (MacOs, Windows, Linux)
 >
 > **Misuse Disclaimer:**
 > The authors are not responsible for any misuse of the application.
+
+## Features
+
+- **Ad-free playback** — stream without ad interruptions.
+- **Background play** — keep listening with the screen off or another app in front.
+- **Downloads** — save tracks for offline listening.
+- **Your library too** — local media files alongside streaming, on Android, desktop and iOS.
+
+## Building
+
+Every push to `main` runs the **build-debug** workflow (see the Actions tab): it builds
+the ffmpeg packs, runs `:androidApp:assembleDebug`, and uploads the per-ABI debug APKs
+as the `YTMusic-debug` artifact — no local toolchain needed for an installable build.
+The workflow can also be started by hand from the Actions tab.
+
+For a local build, see [Running](#running) below.
 
 ## Running
 
