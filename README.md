@@ -1,6 +1,6 @@
 # YT Music
 
-<p align="center"><img src="branding/yt-music-icon.svg" width="120" alt="YT Music icon"></p>
+<p align="center"><img src="branding/yt-music-icon-dark.png" width="120" alt="YT Music icon — dark variant"> <img src="branding/yt-music-icon-light.png" width="120" alt="YT Music icon — light variant"></p>
 
 A Kotlin Multiplatform music player for Android, desktop (MacOs, Windows, Linux), and iOS/iPad.
 
